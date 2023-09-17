@@ -10,13 +10,13 @@ Input:
    t, time period in years
    r, annual rate of interest
 Output
-   simple interest = p*t*r
+   simple interest = p/*t/*r
 
 ## Usage
 
 ```python
 def SimpleInterestCalculator(p,t,r):
-   return p/*t/*r
+   return p*t*r
 ```
    
 ## Contributing
