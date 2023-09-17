@@ -16,7 +16,7 @@ Output
 
 ```python
 def SimpleInterestCalculator(p,t,r):
-   return p*t*r
+   return p/*t/*r
 ```
    
 ## Contributing
